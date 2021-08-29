@@ -69,6 +69,7 @@ On the first time running and debugging your app you need allow the localhost ce
    * Select **Register**
 
 4. Go to **Authentication** tab and enable **Implicit grant** by selecting `Access tokens` and `ID tokens`, then click `Save` button on the top of the page.
+5. TeamsActivity.Send, People.Read, AppCatalog.Read.All, User.Read, User.ReadBasic.All
 
 ## Features
 
